@@ -1,2 +1,28 @@
 /* Importamos una fuente de google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
+
+#inicio {
+    background-image: url(multimedia/fondodeinicio.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.min-vh-100 {
+    min-height: 100vh!important;
+}
+.d-flex {
+    display: flex!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+
+#navbar{
+    background-color: white;
+}
