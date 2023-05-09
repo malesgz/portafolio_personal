@@ -1,6 +1,7 @@
 /* Importamos una fuente de google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
 
+/* ESTILOS DE LA PÁGINA DE INICIO */
 #inicio {
     background-image: url(multimedia/fondodeinicio.jpg);
     background-position: center;
@@ -25,4 +26,10 @@ section {
 
 #navbar{
     background-color: white;
+}
+
+/* ESTILOS MANUALES CON CSS A LA PÁGINA SOBRE INFORMACIÓN PERSONAL Y ÁCADEMICA */
+body {
+background-color: pink;
+text-align:center;
 }
